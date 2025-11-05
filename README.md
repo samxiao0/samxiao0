@@ -7,7 +7,7 @@
   
 </div>
 
-## 📦 My npm Business Card
+## 📦 My npm Card
 
 ```bash
 npx samxiao
